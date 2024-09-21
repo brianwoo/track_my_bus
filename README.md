@@ -6,12 +6,12 @@
 [![Track My Bus Demo](https://img.youtube.com/vi/wRd2SzjMcpI/0.jpg)](https://www.youtube.com/watch?v=wRd2SzjMcpI)
 
 
-<img src="./images/login.png" alt="login" width="350"/>
-<img src="./images/list_view.png" alt="list view" width="350"/>
-<img src="./images/map_view.png" alt="map view" width="350"/>
-<img src="./images/notification.png" alt="notification" width="350"/>
-<img src="./images/announcement.png" alt="announcement" width="350"/>
-<img src="./images/google_maps.png" alt="google maps support" width="350"/>
+<img src="./images/login.png" alt="login" width="320"/>
+<img src="./images/list_view.png" alt="list view" width="320"/>
+<img src="./images/map_view.png" alt="map view" width="320"/>
+<img src="./images/notification.png" alt="notification" width="320"/>
+<img src="./images/announcement.png" alt="announcement" width="320"/>
+<img src="./images/google_maps.png" alt="google maps support" width="320"/>
 
 ## Downloads
 [Releases](https://github.com/brianwoo/track_my_bus_demo/releases)
