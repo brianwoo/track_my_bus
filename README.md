@@ -12,3 +12,6 @@
 <img src="./images/notification.png" alt="notification" width="350"/>
 <img src="./images/announcement.png" alt="announcement" width="350"/>
 <img src="./images/google_maps.png" alt="google maps support" width="350"/>
+
+## Downloads
+[Releases](https://github.com/brianwoo/track_my_bus_demo/releases)
